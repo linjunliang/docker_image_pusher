@@ -1,1 +1,1 @@
-mongo-express
+redis:5.0.13
