@@ -1,1 +1,2 @@
-zookeeper:3.9
+provectuslabs/kafka-ui:latest
+apache/kafka:3.8.1
