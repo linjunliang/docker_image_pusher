@@ -1,2 +1,1 @@
-shardingsphere/sharding-proxy:3.1.0
-apache/shardingsphere-ui:latest
+openjdk:8-jdk-alpine3.7
